@@ -13,9 +13,9 @@ function! s:dbInit()
                 \   'repoPath' : repoPath,
                 \   'dbFile' : dbFile,
                 \   'dbCountFile' : dbCountFile,
-                \   'gitUserEmail' : get(g:, 'ZFVimIM_pinyin_gitUserEmail', get(g:, 'zf_git_user_email', '')),
-                \   'gitUserName' : get(g:, 'ZFVimIM_pinyin_gitUserName', get(g:, 'zf_git_user_name', '')),
-                \   'gitUserToken' : get(g:, 'ZFVimIM_pinyin_gitUserToken', get(g:, 'zf_git_user_token', '')),
+                \   'gitUserEmail' : get(g:, 'ZFVimIM_major_gitUserEmail', get(g:, 'zf_git_user_email', '')),
+                \   'gitUserName' : get(g:, 'ZFVimIM_major_gitUserName', get(g:, 'zf_git_user_name', '')),
+                \   'gitUserToken' : get(g:, 'ZFVimIM_major_gitUserToken', get(g:, 'zf_git_user_token', '')),
                 \ })
 endfunction
 
