@@ -5,9 +5,9 @@ pinyin db file for [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)
 * cloud input
 
     ```
-    let g:ZFVimIM_pinyin_gitUserEmail='YourEmail'
-    let g:ZFVimIM_pinyin_gitUserName='YourUserName'
-    let g:ZFVimIM_pinyin_gitUserToken='YourGithubAccessToken'
+    let g:ZFVimIM_major_gitUserEmail='YourEmail'
+    let g:ZFVimIM_major_gitUserName='YourUserName'
+    let g:ZFVimIM_major_gitUserToken='YourGithubAccessToken'
     ```
 
     or
