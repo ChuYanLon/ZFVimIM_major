@@ -10,3 +10,4 @@ nizhidaobu 3
 popo 1
 shabi 2
 shubao 1
+zuotiandizhenle 1
